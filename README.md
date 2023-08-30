@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Skills
+- Java
+- JPA
+- Mysql
+- Git
+- HTML, CSS
+
+
 <!--
 **Rhabad/Rhabad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
