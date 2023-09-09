@@ -2,7 +2,7 @@
 
 ### Skills
 - Java
-- JPA
+- Spring
 - Mysql
 - Git
 - HTML, CSS
