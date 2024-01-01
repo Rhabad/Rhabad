@@ -2,7 +2,7 @@
 
 ### Skills
 - Java
-- Spring
+- Spring Boot
 - Mysql
 - Git
 - HTML, CSS
