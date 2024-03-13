@@ -1,4 +1,4 @@
-### Hola 👋
+### Hola, Soy un desarrollador Backend Jr. que se encuentra en constante aprendizaje, ademas de ser un apasionado por la programacion. 👋
 
 ### Skills
 - Java
