@@ -1,8 +1,9 @@
 ### Hola, Soy un desarrollador Backend Jr. que se encuentra en constante aprendizaje, ademas de ser un apasionado por la programacion. 👋
 
 ### Skills
-- Java, Python, Javascript
+- Java, PHP, Javascript
 - Spring (boot, data, hibernate, authentication and autorization)
+- Lamines Framework
 - Mysql
 - Git - Github
 - HTML, CSS
