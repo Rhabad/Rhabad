@@ -3,7 +3,7 @@
 ### Skills
 - Java, PHP, Javascript
 - Spring (boot, data, hibernate, authentication and autorization)
-- Lamines Framework
+- Laminas Framework
 - Mysql
 - Git - Github
 - HTML, CSS
